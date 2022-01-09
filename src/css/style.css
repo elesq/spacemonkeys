@@ -1,0 +1,13 @@
+body {
+    background: #010101;
+    color: white;
+}
+
+#gameCanvas {
+    border: 1px solid black;
+    margin: 0 auto;
+    display: block;
+
+    background-image: url('../img/plain.jpg');
+    background-size: auto 100%;
+}
