@@ -8,6 +8,6 @@ body {
     margin: 0 auto;
     display: block;
 
-    background-image: url('../img/plain.jpg');
+    background-image: url('/src/img/plain.jpg');
     background-size: auto 100%;
 }
